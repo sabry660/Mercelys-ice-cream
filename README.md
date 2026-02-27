@@ -29,22 +29,6 @@ A captivating and interactive website for Mercelys Ice Cream, featuring smooth a
 2. Open the project directory.
 3. Run a local server to serve the files (since it uses external resources, a server is needed for proper loading).
 
-### Using Python
-
-```bash
-python -m http.server 8000
-```
-
-Then open http://localhost:8000 in your browser.
-
-### Using Node.js (if available)
-
-Install live-server globally and run:
-
-```bash
-npx live-server
-```
-
 ## Usage
 
 Open index.html in a web browser. The site is optimized for modern browsers.
